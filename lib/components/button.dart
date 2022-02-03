@@ -58,8 +58,7 @@ class _ButtonState extends State<Button> {
                 height: 10,
                 width: 25,
                 child: ImageIcon(
-                  AssetImage('assets/icons/send.png'),
-                  color: Color(0xFF3A5A98),
+                  AssetImage('assets/icons/send.png')
                 ),
               ),
             ),
